@@ -7,6 +7,8 @@
 ###### ✔️Webpack
 ###### ✔️Mocha testing 
 ###### ✔️Eslint as linter 
+###### ✔️HTTP fetch GET and POST requests
+###### ✔️Webworker
 
 ## Also it has serverside which is build using:
 ###### ✔️Node.js/Express
