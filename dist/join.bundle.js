@@ -1,0 +1,1 @@
+(()=>{"use strict";document.createElement("input"),document.createElement("input"),document.createElement("input"),document.createElement("form");new URL("http://localhost:3000/subscribe"),new URL("http://localhost:3000/unsubscribe")})();
